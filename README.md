@@ -2,16 +2,6 @@
 
 > This project is part of our [Data Science](https://rmotr.com/data-science-python-course) and [Web Development](https://rmotr.com/web-development-django-python-course) courses.
 
-<p align="center">
-  <b><a href="https://www.youtube.com/watch?v=iEEazSy67sQ&feature=youtu.be">
-    <img src="https://i.ytimg.com/vi/iEEazSy67sQ/hqdefault.jpg"></a></b>
-</p>
-<p align="center">
-  <i><a href="https://www.youtube.com/watch?v=iEEazSy67sQ&feature=youtu.be">
-    Complete Walkthrough solution</a></i>
-</p>
-
-
 For today's project, we'll be rewriting our previous Hangman Game using OOP. We'll explore **fundamental object oriented design** concepts.
 
 There will be three main classes:
@@ -130,3 +120,13 @@ assert attempt.is_hit() is False
 # Play the game!
 
 As usual, you can use the `main.py` script to play the game once it's resolved.
+
+
+<p align="center">
+  <b><a href="https://www.youtube.com/watch?v=iEEazSy67sQ&feature=youtu.be">
+    <img src="https://i.ytimg.com/vi/iEEazSy67sQ/hqdefault.jpg"></a></b>
+</p>
+<p align="center">
+  <i><a href="https://www.youtube.com/watch?v=iEEazSy67sQ&feature=youtu.be">
+    Complete Walkthrough solution</a></i>
+</p>
